@@ -1,8 +1,9 @@
 # Git SIMPLIFIER
 
-Esse projeto é o que foi desenvolvido durante a execução do trabalho solicitado pelo prof. Jorge Luís Gregório
-O intuito dele é apresentar uma interface mais simples que permita ao usuário utilizar o git e seus comandos iniciais sem a necessidade de ficar decorando.
+Esse projeto foi desenvolvido durante a execução de um trabalho acadêmico, em aulas de Sistema Operacionais II ministradas pelo prof. Jorge Luís Gregório.
+A proposta é apresentar uma interface simplificada que permita ao usuário utilizar do git e seus comandos iniciais com maior facilidade, auxiliando no aprendizado/adaptação de usuários novos da plataforma, conforme utilizarem desta ferramenta.
 
 Autores:
-João Pedro Merlotti @jpmerlotti
 Danielle Ferreira Bortoleto @danielleBortoleto
+João Pedro Merlotti @jpmerlotti
+
